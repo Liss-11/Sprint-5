@@ -1,0 +1,94 @@
+.timepo {
+  position: absolute;
+  width: 30vw;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 5px; */
+  top: 5%;
+}
+.imagen {
+  display: inline-block;
+  height: 20vh;
+  width: 10vw;
+  display: flex;
+}
+.temperatura {
+  width: 10vw;
+  height: 10vh;
+  border-left: 5px solid black;
+  margin-right: 2vw;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 2%;
+}
+.temperatura p {
+  color: black;
+  font-size: 5vh;
+}
+.broma {
+  display: block;
+  margin-top: 1vh;
+  margin-left: 3em;
+  width: 100%;
+  min-height: 50px;
+  max-height: 50%;
+}
+#actualJoke {
+  text-align: center;
+  color: black;
+  max-height: 20%;
+  font-size: 2vw;
+}
+.valor {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+}
+.dNone {
+  display: none;
+}
+.acudit {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-left: 10vw;
+}
+.numeros {
+  margin-left: 10vw;
+}
+.svg {
+  width: 150%;
+  height: 150%;
+  margin-left: -20%;
+  margin-top: -10%;
+}
+.svgL {
+  width: 30vw;
+  margin-left: -40%;
+  margin-top: 200%;
+  height: 50%;
+}
+.svgR {
+  width: 200%;
+  margin-left: -80%;
+  height: 40%;
+}
+.text {
+  position: absolute;
+  top: 45%;
+  left: 15%;
+  width: 60%;
+  height: 100%;
+}
+.titulo {
+  display: block;
+  margin-left: 20%;
+  font-size: 4vw;
+}
+.emogi {
+  border-style: none;
+  background: none;
+}

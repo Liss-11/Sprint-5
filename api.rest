@@ -1,0 +1,4 @@
+
+
+
+GET api.openweathermap.org/data/2.5/weather?id=2510769&lang=sp&units=metric&appid=c4d2f8bbb8d4805767fdffb794dac5a8
